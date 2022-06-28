@@ -1,0 +1,29 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    margin: 0;
+    font-weight: 300;
+    font-size: 11px;
+    font-family: 'Helvetica Neue','sans-serif';
+    color: #444;
+    background: #022c43;
+    overflow: hidden;
+    display: block;
+}
+
+
+.style_home-page__uiBQ8 h1::after {
+        animation: fadeIn 1s 1.7s backwards;
+}
+.style_home-page__uiBQ8 h1 img{
+            animation: rotateIn 1s linear both;
+}
+
+.style_home-page__uiBQ8 .style_text-zone__an8DV h2{
+        animation: fadeIn 1s 1.8s backwards;
+}
+
+.style_flat-button__QaSuD{
+        animation: fadeIn 1s 1.8s backwards;
+}
